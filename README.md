@@ -1,4 +1,4 @@
 # jitech
 
 
-click to visit website: https://alphabalaji.github.io/jitec/
+click to visit website: https://github.com/Alphabalaji/jitech.git
