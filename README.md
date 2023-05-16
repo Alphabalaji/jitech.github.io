@@ -1,4 +1,4 @@
 # jitech
 
 
-click to visit website: hptts://alphabalaji.gitHub.io/jiteh/
+click to visit website: https://alphabalaji.gitHub.io/jiteh/
